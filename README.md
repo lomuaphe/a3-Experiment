@@ -15,7 +15,6 @@ The findings of this research hold significant implications for data visualizati
 
 
 ### Understanding Different Visualizations
-The general idea of the experiment was to 
 - Pie Chart: Common for showing proportions within a whole, pie charts are intuitive for some comparisons but can be challenging for precise quantitative comparisons.
 - Stacked Bar Chart: This visualization is effective for showing part-to-whole relationships and trends over time or across categories, potentially offering clearer quantitative assessment than pie charts.
 - Treemap: Treemaps are useful for displaying hierarchical data and proportions within a whole, offering a different spatial representation than pie charts.
