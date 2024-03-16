@@ -2,9 +2,13 @@ Exploring the Effectiveness of Proportional Graphs: A Comparative Analysis of Ch
 ===
 
 Proportional graphs, also referred as "percentage" or "parts-of-a-whole" graphs, visually represent the parts of a whole entity and illustrate the proportion or percentage each part contributes to the total.
+
 Understanding the effectiveness of different visualization techniques is pivotal for conveying complex data insights accurately and intuitively. In this study, we delve into the realm of parts-of-a-whole graphs, investigating the ease of comprehension and accuracy across four distinct chart types: treemap, pie chart, stacked bar chart, and donut chart.
+
 Our study aims to conduct a survey-based investigation, where participants are presented with two dots marked in each visualization. Their task is to identify which proportion represents the smallest part in relation to the largest part, guided solely by the placement of these dots. By employing this novel approach, we can gauge the perceptual ease and accuracy associated with each chart type.
+
 In our project, we conducted 45 individual surveys that threw a total of 900 responses, and we measured accuracy in identifying relative proportions. This output allowed us to determine which chart types facilitate a more intuitive comprehension and precise interpretation. 
+
 The findings of this research hold significant implications for data visualization practitioners. By unveiling the comparative effectiveness of parts-of-a-whole graphs, we can inform best practices in chart selection, ultimately enhancing the clarity and impact of data-driven communication strategies.
 
 ### Understanding Different Visualization
