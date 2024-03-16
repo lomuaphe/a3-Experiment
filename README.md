@@ -1,5 +1,6 @@
 Exploring the Effectiveness of Proportional Graphs: A Comparative Analysis of Chart Types
 ===
+### Team: Pixel Master
 
 Proportional graphs, also referred as "percentage" or "parts-of-a-whole" graphs, visually represent the parts of a whole entity and illustrate the proportion or percentage each part contributes to the total.
 
@@ -55,7 +56,6 @@ Survey repository: https://github.com/jcai0o0/revisit-project
 
 
 
-#### Team: Pixel Master
 #### Members: 
 Gan-Erdene Benderiya, Jingni Cai, Ester Jere, Antonela Tamagnini
 
