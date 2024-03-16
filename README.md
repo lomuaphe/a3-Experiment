@@ -27,6 +27,7 @@ The general idea of the experiment was to
 - Donut charts with multiple concentric rings or hierarchical data may require more cognitive effort to interpret compared to simple pie charts or stacked bar charts.
 
 
+
 ### Revisit experiment screenshots
 #### Landing page of the experiment
 ![](img/revisit-landing-page.png)
@@ -49,14 +50,17 @@ The general idea of the experiment was to
 
 ### Useful links
 Survey link: https://jcai0o0.github.io/revisit-project/
+
 Survey repository: https://github.com/jcai0o0/revisit-project
 
+
+
 #### Team: Pixel Master
-#### Members:
-Gan-Erdene Benderiya 
-Jingni Cai
-Ester Jere
-Antonela Tamagnini
+#### Members: 
+Gan-Erdene Benderiya, Jingni Cai, Ester Jere, Antonela Tamagnini
+
+
+
 
 
 
