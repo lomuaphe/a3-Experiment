@@ -1,5 +1,28 @@
 Assignment 3 - Replicating a Classic Experiment  
 ===
+Pixel Master: 
+
+Survey link: https://jcai0o0.github.io/revisit-project/
+
+Survey repository: https://github.com/jcai0o0/revisit-project
+
+### Understanding Different Visualization:
+- Pie Chart: Common for showing proportions within a whole, pie charts are intuitive for some comparisons but can be challenging for precise quantitative comparisons.
+- Stacked Bar Chart: This visualization is effective for showing part-to-whole relationships and trends over time or across categories, potentially offering clearer quantitative assessment than pie charts.
+- Treemap: Treemaps are useful for displaying hierarchical data and proportions within a whole, offering a different spatial representation than pie charts.
+- Donut Chart: Similar to a pie chart, but with a blank center, a donut chart is used to display proportions or percentages of a whole.
+
+---
+
+### Hypotheses:
+- Users may find pie charts most intuitive for understanding general proportions but struggle with precise comparisons.
+- Stacked bar charts may facilitate better quantitative analysis and comparison across categories than pie charts.
+- Treemaps, while effective for displaying large datasets, may require more cognitive effort to interpret than pie or stacked bar charts.
+- Donut charts with multiple concentric rings or hierarchical data may require more cognitive effort to interpret compared to simple pie charts or stacked bar charts.
+
+
+
+
 
 For the scope of this project, assume the role of a scientist who runs experiments for a living.
 
