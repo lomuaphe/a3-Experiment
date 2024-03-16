@@ -77,6 +77,29 @@ In conclusion, data visualization practitioners can confidently employ any of th
 
 ### Design and Technical Achievements
 
+#### Visualization Types Used (D3)
+
+D3, a powerful tool to help in creating different types of visualizations like : -bar chart -donout chart -tree chart pie chart -It allows for the flexibility in terms of data visualization where they can be animated or not -The D3 has been used in esuring smooth transtions from one event to another
+
+#### Program to Retrieve Data from Firebase Using Python
+
+This was used because python easily establishes connection to firebase projection making it easy to retrieve data and incoporate it in a python application for manipulation -The use of python in firebase for data retreaval offers great scalability making it possible tomhandle large volumes of data with eaase -Python as a language offers a lot of flexibility in database manipulation as it can connect to any type of database like Object Orientented Relational Models or just SQL Queries it can handle it -although using python can be a good and efficient way to retrieve data, security is always a concern as Python does not offer much flexibility in protecting data from things like sql injections.
+
+#### Console Logging and Debugging
+
+This has helped the developers to quickly give feedback to the users as the errors were logged in real-time hence increases customer satisfaction. -This provided the ability to easily identify errors as they were being logged as this allows the developer to identify the types of errors to log hence making it to track any erros and quickly resolve it. -The system logged messages at important stages and this gave the developing team a chance to track data movement and trace where data is lost and where data was not converted as required. -console logging provides a security audit for the application as it logs userid and user operations it becomes easy to know user operations and trace what user did unneccessary transactions
+
+#### Custom Styling and Layout
+
+The simple and flexible layout of the experiment made it easy for users to quickly finish their surveys -The user interface had CSS applied to make the rendering apealing to the users -Although the design could display on both the mobile and computer devices, uses on mobile devices had some challenges compared to those who used laptops.
+
+#### Dynamic Data Binding & Interaction Handling
+
+This is powerful element ti include as it ensures that change in the data does not affect the object it is bound to hence making changes more flexible -The ability to respond to user events is well represented that no user clicks results in an undescriptive error -This allows for the implementation of random data manipulation as in the case hwere graphs and or questions are randomly generated -The ability to easily handle the errors like using try catch has been implemented well in the application
+
+#### User Feedback
+
+There were variations based on gender. Male particpants found the donut harder than the treemap while women found the treemap harder than the donot
 
 
 
