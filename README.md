@@ -74,8 +74,6 @@ In conclusion, data visualization practitioners can confidently employ any of th
 
 
 
-
-
 ### Design and Technical Achievements
 
 #### Visualization Types Used (D3)
@@ -124,6 +122,8 @@ It allows for flexibility in terms of data visualization where they can be anima
 -     [Download PDF](https://github.com/lomuaphe/a3-Experiment/blob/main/post-survey-interview/post_survey_questionnaire-py.pdf)
   
 -   Some users were willing to have their pictures taken
+-   ![Alt text](https://github.com/lomuaphe/a3-Experiment/blob/main/post-survey-interview/feedback%20pictures/picture.jpeg)
+-   ![Alt text](https://github.com/lomuaphe/a3-Experiment/blob/main/post-survey-interview/feedback%20pictures/picture3.jpeg)
 
 #### User Feedback 
 -   Many users thought the survey was easy 
