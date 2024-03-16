@@ -80,36 +80,40 @@ In conclusion, data visualization practitioners can confidently employ any of th
 
 #### Visualization Types Used (D3)
 
-D3, is a powerful tool to help in creating different types of visualizations like: -bar charts 
+D3, is a powerful tool to help in creating different types of visualizations like: 
+- bar charts 
 - donut charts 
 - tree charts
 - pie charts 
-It allows for flexibility in terms of data visualization where they can be animated or not -The D3 has been used in ensuring smooth transitions from one event to another.
+It allows for flexibility in terms of data visualization where they can be animated or not 
+- The D3 has been used in ensuring smooth transitions from one event to another.
 
 #### Program to Retrieve Data from Firebase Using Python
 
-This was used because Python easily establishes a connection to Firebase projection making it easy to retrieve data and incorporate it in a Python application for manipulation 
--The use of Python in Firebase for data retrieval offers great scalability making it possible to handle large volumes of data with ease 
--Python as a language offers a lot of flexibility in database manipulation as it can connect to any type of database like Object Oriented Relational Models or just SQL Queries it can handle it 
--Although using python can be a good and efficient way to retrieve data, security is always a concern as Python does not offer much flexibility in protecting data from things like SQL injections.
+- This was used because Python easily establishes a connection to Firebase projection making it easy to retrieve data and incorporate it in a Python application for manipulation 
+- The use of Python in Firebase for data retrieval offers great scalability making it possible to handle large volumes of data with ease 
+- Python as a language offers a lot of flexibility in database manipulation as it can connect to any type of database like Object Oriented Relational Models or just SQL Queries it can handle it 
+- Although using python can be a good and efficient way to retrieve data, security is always a concern as Python does not offer much flexibility in protecting data from things like SQL injections.
 
 #### Console Logging and Debugging
 
-This has helped the developers to quickly give feedback to the users as the errors were logged in real-time hence increasing customer satisfaction. 
--This provided the ability to easily identify errors as they were being logged as this allows the developer to identify the types of errors to log hence making it possible to track any errors and quickly resolve them. 
--The system logged messages at important stages and this gave the developing team a chance to track data movement and trace where data was lost and where data was not converted as required. Console logging provides a security audit for the application as it logs userid and user operations it becomes easy to know user operations and trace what user did unnecessary transactions.
+- This has helped the developers to quickly give feedback to the users as the errors were logged in real-time hence increasing customer satisfaction. 
+- This provided the ability to easily identify errors as they were being logged as this allows the developer to identify the types of errors to log hence making it possible to track any errors and quickly resolve them. 
+- The system logged messages at important stages and this gave the developing team a chance to track data movement and trace where data was lost and where data was not converted as required. 
+- Console logging provides a security audit for the application as it logs userid and user operations it becomes easy to know user operations and trace what user did unnecessary transactions.
 
 #### Custom Styling and Layout
 
-The simple and flexible layout of the experiment made it easy for users to quickly finish their surveys -The user interface had CSS applied to make the rendering appealing to the users 
--Although the design could display on both mobile and computer devices, uses on mobile devices had some challenges compared to those who used laptops.
+- The simple and flexible layout of the experiment made it easy for users to quickly finish their surveys 
+- The user interface had CSS applied to make the rendering appealing to the users 
+- Although the design could display on both mobile and computer devices, uses on mobile devices had some challenges compared to those who used laptops.
 
 #### Dynamic Data Binding & Interaction Handling
 
-This is a powerful element to include as it ensures that change in the data does not affect the object it is bound to hence making changes more flexible 
--The ability to respond to user events is well represented that no user clicks results in an undescriptive error 
--This allows for the implementation of random data manipulation as in the case where graphs and or questions are randomly generated 
--The ability to easily handle errors like using try catch has been implemented well in the application.
+- This is a powerful element to include as it ensures that change in the data does not affect the object it is bound to hence making changes more flexible 
+- The ability to respond to user events is well represented that no user clicks results in an undescriptive error 
+- This allows for the implementation of random data manipulation as in the case where graphs and or questions are randomly generated 
+- The ability to easily handle errors like using try catch has been implemented well in the application.
 
 #### User Feedback
 
