@@ -28,16 +28,16 @@ The general idea of the experiment was to
 ![](img/revisit-landing-page.png)
 
 #### Visualization: Donut Pie Chart
-https://github.com/jcai0o0/a3-Experiment/blob/main/img/revisit-donutchart.png
+![](img/revisit-donutchart.png.png)
 
 #### Visualization: Pie Chart
-https://github.com/jcai0o0/a3-Experiment/blob/main/img/revisit-piechart.png
+![](img/revisit-piechart.png)
 
 #### Visualization: Stacked Bar Chart
-https://github.com/jcai0o0/a3-Experiment/blob/main/img/revisit-stackedbarchart.png
+![](img/revisit-stackedbarchart.png)
 
 #### Visualization: Treemap
-https://github.com/jcai0o0/a3-Experiment/blob/main/img/revisit-treemap.png
+![](img/revisit-treemap.png.png)
 
 ### Design and Technical Achievements
 
