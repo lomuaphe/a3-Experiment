@@ -59,10 +59,11 @@ The findings of this research hold significant implications for data visualizati
 
 
 
-### Results of the study
+
+## Results of the study
 ![](img/revisit-error-table.png)
 
-This table displays the results of the Log2 Error results for each of the visualization types analyzed, the ranking of accuracy based on the error rate, with 1 being the most accurate, and the lower and upper confidence intervals.
+The previous table displays the results of the Log2 Error results for each of the visualization types analyzed, the ranking of accuracy based on the error rate, with 1 being the most accurate, and the lower and upper confidence intervals.
 
 ![](img/revisit-boxplot.png)
 
@@ -70,6 +71,8 @@ The boxplot shows the log error value for the different graph types. The central
 
 Considering the minimal variation in error rates among the four visualization types examined—treemap, donut chart, stacked bar chart, and pie chart—it can be inferred that while treemaps marginally outperform the others, the overall difference is not significative.
 In conclusion, data visualization practitioners can confidently employ any of these formats knowing that they all similarly support accurate parts-of-a-whole interpretations.
+
+
 
 
 ### Design and Technical Achievements
