@@ -1,6 +1,18 @@
 Exploring the Effectiveness of Proportional Graphs: A Comparative Analysis of Chart Types
 ===
-### Team: Pixel Master
+### Team: 
+
+**Pixel Master**: Gan-Erdene Benderiya, Jingni Cai, Ester Jere, Antonela Tamagnini
+
+
+### Related links
+Survey link: https://jcai0o0.github.io/revisit-project/
+
+Survey repository: https://github.com/jcai0o0/revisit-project
+
+Interview Questionnaire: [Post Survey Interview](https://github.com/jcai0o0/a3-Experiment/blob/main/post-survey-interview/post%20survey%20questionnaire.pdf)
+
+____
 
 ### Introduction
 Proportional graphs, also referred as "percentage" or "parts-of-a-whole" graphs, visually represent the parts of a whole entity and illustrate the proportion or percentage each part contributes to the total.
@@ -48,20 +60,6 @@ The findings of this research hold significant implications for data visualizati
 
 ### Design and Technical Achievements
 
-
-### Useful links
-Survey link: https://jcai0o0.github.io/revisit-project/
-
-Survey repository: https://github.com/jcai0o0/revisit-project
-
-
-
-#### Members: 
-Gan-Erdene Benderiya, Jingni Cai, Ester Jere, Antonela Tamagnini
-
-
-
-.
 
 
 
