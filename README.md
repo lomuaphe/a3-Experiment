@@ -117,12 +117,14 @@ It allows for flexibility in terms of data visualization where they can be anima
 
 #### Interviews 
 -   They are easy ways to get feedback from the users. 
--   A user feedback form was created 
--   User responses 
--   Some users were willing to have picture taken 
-
+-   A user feedback form was created which can be downloaded under section of related links on top 
+-   User responses
+-     [Download Excel File](https://github.com/lomuaphe/a3-Experiment/blob/main/post-survey-interview/answers.xlsx)
+-     [Download PDF](https://github.com/lomuaphe/a3-Experiment/blob/main/post-survey-interview/post_survey-questionnaire_mh.pdf)
+-     [Download PDF](https://github.com/lomuaphe/a3-Experiment/blob/main/post-survey-interview/post_survey_questionnaire-py.pdf)
+  
+-   Some users were willing to have their pictures taken
 
 #### User Feedback 
 -   Many users thought the survey was easy 
--   There were variations based on gender. Male participants found the donut harder than the treemap while women found the treemap harder than the donut. We thought this was interesting 
-
+-   There were variations based on gender. Male participants found the donut harder than the treemap while women found the treemap harder than the donut. 
