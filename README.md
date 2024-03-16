@@ -11,7 +11,8 @@ In our project, we conducted 45 individual surveys that threw a total of 900 res
 
 The findings of this research hold significant implications for data visualization practitioners. By unveiling the comparative effectiveness of parts-of-a-whole graphs, we can inform best practices in chart selection, ultimately enhancing the clarity and impact of data-driven communication strategies.
 
-### Understanding Different Visualization
+
+### Understanding Different Visualizations
 The general idea of the experiment was to 
 - Pie Chart: Common for showing proportions within a whole, pie charts are intuitive for some comparisons but can be challenging for precise quantitative comparisons.
 - Stacked Bar Chart: This visualization is effective for showing part-to-whole relationships and trends over time or across categories, potentially offering clearer quantitative assessment than pie charts.
@@ -19,20 +20,19 @@ The general idea of the experiment was to
 - Donut Chart: Similar to a pie chart, but with a blank center, a donut chart is used to display proportions or percentages of a whole.
 
 ---
-
 ### Hypotheses
 - Users may find pie charts most intuitive for understanding general proportions but struggle with precise comparisons.
 - Stacked bar charts may facilitate better quantitative analysis and comparison across categories than pie charts.
 - Treemaps, while effective for displaying large datasets, may require more cognitive effort to interpret than pie or stacked bar charts.
 - Donut charts with multiple concentric rings or hierarchical data may require more cognitive effort to interpret compared to simple pie charts or stacked bar charts.
 
-### Revisit experiment screenshots
 
+### Revisit experiment screenshots
 #### Landing page of the experiment
 ![](img/revisit-landing-page.png)
 
-#### Visualization: Donut Pie Chart
-![](img/revisit-donutchart.png.png)
+#### Visualization: Donut Chart
+![](img/revisit-donutchart.png)
 
 #### Visualization: Pie Chart
 ![](img/revisit-piechart.png)
@@ -41,7 +41,8 @@ The general idea of the experiment was to
 ![](img/revisit-stackedbarchart.png)
 
 #### Visualization: Treemap
-![](img/revisit-treemap.png.png)
+![](img/revisit-treemap.png)
+
 
 ### Design and Technical Achievements
 
