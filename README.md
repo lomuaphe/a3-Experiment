@@ -1,12 +1,14 @@
-Assignment 3 - Replicating a Classic Experiment  
+Exploring the Effectiveness of Proportional Graphs: A Comparative Analysis of Chart Types
 ===
-Pixel Master: 
 
-Survey link: https://jcai0o0.github.io/revisit-project/
+Proportional graphs, also referred as "percentage" or "parts-of-a-whole" graphs, visually represent the parts of a whole entity and illustrate the proportion or percentage each part contributes to the total.
+Understanding the effectiveness of different visualization techniques is pivotal for conveying complex data insights accurately and intuitively. In this study, we delve into the realm of parts-of-a-whole graphs, investigating the ease of comprehension and accuracy across four distinct chart types: treemap, pie chart, stacked bar chart, and donut chart.
+Our study aims to conduct a survey-based investigation, where participants are presented with two dots marked in each visualization. Their task is to identify which proportion represents the smallest part in relation to the largest part, guided solely by the placement of these dots. By employing this novel approach, we can gauge the perceptual ease and accuracy associated with each chart type.
+In our project, we conducted 45 individual surveys that threw a total of 900 responses, and we measured accuracy in identifying relative proportions. This output allowed us to determine which chart types facilitate a more intuitive comprehension and precise interpretation. 
+The findings of this research hold significant implications for data visualization practitioners. By unveiling the comparative effectiveness of parts-of-a-whole graphs, we can inform best practices in chart selection, ultimately enhancing the clarity and impact of data-driven communication strategies.
 
-Survey repository: https://github.com/jcai0o0/revisit-project
-
-### Understanding Different Visualization:
+### Understanding Different Visualization
+The general idea of the experiment was to 
 - Pie Chart: Common for showing proportions within a whole, pie charts are intuitive for some comparisons but can be challenging for precise quantitative comparisons.
 - Stacked Bar Chart: This visualization is effective for showing part-to-whole relationships and trends over time or across categories, potentially offering clearer quantitative assessment than pie charts.
 - Treemap: Treemaps are useful for displaying hierarchical data and proportions within a whole, offering a different spatial representation than pie charts.
@@ -14,11 +16,43 @@ Survey repository: https://github.com/jcai0o0/revisit-project
 
 ---
 
-### Hypotheses:
+### Hypotheses
 - Users may find pie charts most intuitive for understanding general proportions but struggle with precise comparisons.
 - Stacked bar charts may facilitate better quantitative analysis and comparison across categories than pie charts.
 - Treemaps, while effective for displaying large datasets, may require more cognitive effort to interpret than pie or stacked bar charts.
 - Donut charts with multiple concentric rings or hierarchical data may require more cognitive effort to interpret compared to simple pie charts or stacked bar charts.
+
+### Revisit experiment screenshots
+
+#### Landing page of the experiment
+https://github.com/jcai0o0/a3-Experiment/blob/main/img/revisit-landing-page.png
+
+#### Visualization: Donut Pie Chart
+https://github.com/jcai0o0/a3-Experiment/blob/main/img/revisit-donutchart.png
+
+#### Visualization: Pie Chart
+https://github.com/jcai0o0/a3-Experiment/blob/main/img/revisit-piechart.png
+
+#### Visualization: Stacked Bar Chart
+https://github.com/jcai0o0/a3-Experiment/blob/main/img/revisit-stackedbarchart.png
+
+#### Visualization: Treemap
+https://github.com/jcai0o0/a3-Experiment/blob/main/img/revisit-treemap.png
+
+### Design and Technical Achievements
+
+
+### Useful links
+Survey link: https://jcai0o0.github.io/revisit-project/
+Survey repository: https://github.com/jcai0o0/revisit-project
+
+#### Team: Pixel Master
+#### Members:
+Gan-Erdene Benderiya 
+Jingni Cai
+Ester Jere
+Antonela Tamagnini
+
 
 
 
