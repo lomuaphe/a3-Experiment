@@ -25,7 +25,7 @@ The general idea of the experiment was to
 ### Revisit experiment screenshots
 
 #### Landing page of the experiment
-!(/img/revisit-landing-page.png)
+![](img/revisit-landing-page.png)
 
 #### Visualization: Donut Pie Chart
 https://github.com/jcai0o0/a3-Experiment/blob/main/img/revisit-donutchart.png
