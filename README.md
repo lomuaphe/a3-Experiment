@@ -120,7 +120,6 @@ It allows for flexibility in terms of data visualization where they can be anima
 -     [Download Excel File](https://github.com/lomuaphe/a3-Experiment/blob/main/post-survey-interview/answers.xlsx)
 -     [Download PDF](https://github.com/lomuaphe/a3-Experiment/blob/main/post-survey-interview/post_survey-questionnaire_mh.pdf)
 -     [Download PDF](https://github.com/lomuaphe/a3-Experiment/blob/main/post-survey-interview/post_survey_questionnaire-py.pdf)
-  
 -   Some users were willing to have their pictures taken
 -   ![Alt text](https://github.com/lomuaphe/a3-Experiment/blob/main/post-survey-interview/feedback%20pictures/picture.jpeg)
 -   ![Alt text](https://github.com/lomuaphe/a3-Experiment/blob/main/post-survey-interview/feedback%20pictures/picture3.jpeg)
